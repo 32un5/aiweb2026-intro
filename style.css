@@ -10,7 +10,7 @@
   --blue-soft: #e8f3ff;
 
   --space-section: clamp(2rem, 1.5rem + 2vw, 3.5rem);
-  --container-max: 720px;
+  --container-max: 820px;
   --radius: 20px;
 }
 
